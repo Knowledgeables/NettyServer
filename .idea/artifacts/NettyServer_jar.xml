@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NettyServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NettyServer_jar</output-path>
+    <root id="archive" name="NettyServer.jar">
+      <element id="module-output" name="NettyServer" />
+      <element id="extracted-dir" path="F:/libary/netty-all-4.0.36.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/libary/netty-buffer-4.0.26.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/libary/netty-common-4.0.26.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="F:/libary/netty-transport-4.0.26.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
