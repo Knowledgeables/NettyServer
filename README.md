@@ -2,7 +2,7 @@
 <a>基于Netty的server和client测试工程 </a>
 <p>客户端和服务端我写在一起</p>
 
-<h1>使用 </h1>
+<h2>使用 </h2>
 - <a>NettyEntrance -- 这个就是服务的入口 </a>
 - <a>NettyClient-- 客户端的入口 </a>
 客户端没有写main方法需要运行<pre><code> new NettyClient().sendMessage(message); </code></pre>
