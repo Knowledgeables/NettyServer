@@ -17,16 +17,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
-      <library name="Netty">
+      <library name="lib">
         <CLASSES>
-          <root url="jar://F:/libary/netty-all-4.0.36.Final.jar!/" />
-          <root url="jar://F:/libary/netty-buffer-4.0.26.Final.jar!/" />
-          <root url="jar://F:/libary/netty-common-4.0.26.Final.jar!/" />
-          <root url="jar://F:/libary/netty-transport-4.0.26.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-all-4.0.36.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-buffer-4.0.26.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-common-4.0.26.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-transport-4.0.26.Final.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://F:/libary/netty-all-4.0.36.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/netty-all-4.0.36.Final-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
