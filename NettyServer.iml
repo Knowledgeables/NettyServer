@@ -30,5 +30,6 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="netty-transport-native-epoll-4.0.26.Final" level="project" />
   </component>
 </module>
